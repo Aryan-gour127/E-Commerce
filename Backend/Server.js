@@ -59,7 +59,7 @@ app.use(cookieParser());
 // CORS (must allow credentials)
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://ecom-rho-livid.vercel.app/",
+  "https://ecom-rho-livid.vercel.app",
 ];
 
 app.use(
