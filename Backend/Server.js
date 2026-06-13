@@ -59,7 +59,7 @@ app.use(cookieParser());
 // CORS (must allow credentials)
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://e-commerce-phi-ruddy-21.vercel.app",
+  "https://ecommerce-beta-lac.vercel.app",
 ];
 
 app.use(
